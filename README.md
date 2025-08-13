@@ -64,6 +64,7 @@ I’m looking to **contribute more to the community** — picking up *good first
 ---
 
 ## Tech I enjoy
+
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
@@ -71,12 +72,44 @@ I’m looking to **contribute more to the community** — picking up *good first
   <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=42B883">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white">
 </p>
 
-- Databases: PostgreSQL, MySQL, MongoDB • ORMs: Prisma/TypeORM  
-- Infra: Docker, Nginx, CDK/Terraform • Monorepo: Turborepo
+**Languages**  
+TypeScript, JavaScript, Python, HTML/JSX, CSS/Sass.
 
+**Frontend**  
+React 18, Next.js (App Router), Vue 2/3, Nuxt 3, Angular 16, Tailwind CSS, shadcn/ui, Storybook, Vite, Webpack, Framer Motion, GSAP, Three.js / React Three Fiber (R3F).
+
+**Mobile / Hybrid**  
+Ionic (Angular).
+
+**Backend & APIs**  
+Node.js, Express, Fastify, Python (Django), REST, GraphQL, WebSockets.
+
+**Auth & Payments**  
+NextAuth, OAuth/JWT, Stripe.
+
+**Data & Storage**  
+PostgreSQL, MySQL, MongoDB, Prisma, TypeORM, Redis.
+
+**Cloud & DevOps**  
+AWS — Lambda, API Gateway, S3, CloudFront, Route53, RDS/Aurora, DynamoDB, Cognito, IAM;  
+Docker, Nginx, Linux; Terraform, AWS CDK; GitHub Actions (CI/CD); Vercel, Netlify, Supabase.
+
+**Testing & QA**  
+Vitest, Jest, Testing Library, Playwright, Cypress, Selenium, Cucumber/Gherkin, E2E test strategy.
+
+**Tooling & Workflow**  
+Turborepo (monorepos), pnpm/npm/yarn, ESLint, Prettier, Conventional Commits, Commitlint, Husky, Git/GitHub.
 ---
 
 ## Featured repos
