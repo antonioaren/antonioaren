@@ -19,21 +19,47 @@ I’m looking to **contribute more to the community** — picking up *good first
 
 ---
 
-## About
-- I enjoy **clean, readable code**, small utilities, and teaching by examples.
-- Into **DX**, simple tests (Vitest/Playwright), and keeping apps **fast & accessible**.
-- Cloud when needed (AWS), but I try to keep things **boring and reliable**.
-
-> If you opened an issue, starred a repo, or sent feedback: **thank you**.  
-> I tag **good first issue** / **help wanted** whenever possible.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>About</h2>
+      <ul>
+        <li>I enjoy <strong>clean, readable code</strong>, small utilities, and teaching by examples.</li>
+        <li>Into <strong>DX</strong>, simple tests (Vitest/Playwright), and keeping apps <strong>fast & accessible</strong>.</li>
+        <li>Cloud when needed (AWS), but I try to keep things <strong>boring and reliable</strong>.</li>
+      </ul>
+      <blockquote>
+        If you opened an issue, starred a repo, or sent feedback: <strong>thank you</strong>.<br />
+        I tag <strong>good first issue</strong> / <strong>help wanted</strong> whenever possible.
+      </blockquote>
+    </td>
+    <td>
+      <h2>GitHub Stats</h2>
+      <a href="https://github.com/antonioaren">
+        <img height="160" alt="GitHub Stats"
+             src="https://github-readme-stats.vercel.app/api?username=antonioaren&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
+      </a>
+      <br />
+      <a href="https://github.com/antonioaren">
+        <img height="160" alt="Top Languages"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioaren&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+      </a>
+      <br />
+      <a href="https://github.com/antonioaren">
+        <img height="160" alt="GitHub Streak"
+             src="https://streak-stats.demolab.com?user=antonioaren&theme=transparent&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## What I’m doing right now
-- **Dollar** – personal finance app (clean architecture + charts).
-- **Fix It Now** – small MVP for home repairs (Next.js + AWS). *Help wanted for booking flows.*
-- **QA Frontend Tools** – unify Playwright/Cypress/Selenium behind a Cucumber-style façade.
-- **Udima** – I’m working on a **v2** to improve load speed and add requested features.
+- **Dollar** — personal finance app (clean architecture + charts).
+- **Fix It Now** — small MVP for home repairs (Next.js + AWS). *Help wanted for booking flows.*
+- **QA Frontend Tools** — unify Playwright/Cypress/Selenium behind a Cucumber-style facade.
+- **Udima** — I’m working on a **v2** to improve load speed and add requested features.
 
 ---
 
@@ -86,17 +112,11 @@ I’m looking to **contribute more to the community** — picking up *good first
 ---
 
 ## Contact
-- Portfolio: https://pedroarenas.dev  
+- Portfolio: **https://pedroarenas.dev**  
 - Email: **antonioaren2@gmail.com**  
-- LinkedIn: **/in/antonioaren**
+- LinkedIn: **https://linkedin.com/in/antonioaren**
 
 <sub>
 P.S. If you’re learning, I’m happy to review a small PR or pair on a bug.  
 No promises, but I try to make time. ☕
 </sub>
-
-
-<div align="center">
-  <img height="160" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=antonioaren&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
-</div>
