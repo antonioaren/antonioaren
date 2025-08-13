@@ -109,7 +109,8 @@ Docker, Nginx, Linux; Terraform, AWS CDK; GitHub Actions (CI/CD); Vercel, Netlif
 Vitest, Jest, Testing Library, Playwright, Cypress, Selenium, Cucumber/Gherkin, E2E test strategy.
 
 **Tooling & Workflow**  
-Turborepo (monorepos), pnpm/npm/yarn, ESLint, Prettier, Conventional Commits, Commitlint, Husky, Git/GitHub.
+Turborepo (monorepos), pnpm/npm/, ESLint, Prettier, Conventional Commits, Commitlint, Husky, Git/GitHub, Github Actions.
+
 ---
 
 ## Featured repos
