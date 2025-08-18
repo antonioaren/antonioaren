@@ -1,4 +1,4 @@
-name: Update date daily (21:00 Europe/Madrid)
+name: Update snake daily (09:00 Europe/Madrid)
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: "Force run now (bypass 21:00 Europe/Madrid check)"
+        description: "Force run for update snake"
         required: false
         default: "false"
 
