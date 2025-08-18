@@ -2,9 +2,10 @@ name: Update date daily (21:00 Europe/Madrid)
 
 on:
   push:
-    - branch: "main"
+    branches:
+      - "**"
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 9 * * *"
   workflow_dispatch:
     inputs:
       force:
