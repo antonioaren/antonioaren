@@ -165,3 +165,14 @@ Turborepo (monorepos), pnpm/npm/, ESLint, Prettier, Conventional Commits, Commit
 P.S. If you’re learning, I’m happy to review a small PR or pair on a bug.  
 No promises, but I try to make time. ☕
 </sub>
+
+---
+
+## Tests
+
+End-to-end smoke tests for the public website run with Playwright.
+
+- Install: `npm i`
+- Run locally: `npx playwright install && npm test`
+- Report: `npx playwright show-report`
+

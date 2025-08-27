@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "<!-- GitHub Profile README — friendly/community tone -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioaren/antonioaren.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioaren/antonioaren/issues"
+  },
+  "homepage": "https://github.com/antonioaren/antonioaren#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
