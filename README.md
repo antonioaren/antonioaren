@@ -62,9 +62,8 @@ I’m looking to **contribute more to the community** — picking up _good first
 
 ## What I’m doing right now
 
+- **Commitment** — Tool to help achive requirement from client or Product team.
 - **Dollar** — personal finance app (clean architecture + charts).
-- **Fix It Now** — small MVP for home repairs (Next.js + AWS). _Help wanted for booking flows._
-- **QA Frontend Tools** — unify Playwright/Cypress/Selenium behind a Cucumber-style facade.
 - **Udima** — I’m working on a **v2** to improve load speed and add requested features.
 
 ---
