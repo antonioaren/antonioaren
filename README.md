@@ -88,6 +88,7 @@ I’m looking to **contribute more to the community** — picking up _good first
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white">
 </p>
 
+<!-- 
 **Languages**  
 TypeScript, JavaScript, Python, HTML/JSX, CSS/Sass.
 
@@ -116,10 +117,14 @@ Vitest, Jest, Testing Library, Playwright, Cypress, Selenium, Cucumber/Gherkin, 
 **Tooling & Workflow**  
 Turborepo (monorepos), pnpm/npm/, ESLint, Prettier, Conventional Commits, Commitlint, Husky, Git/GitHub, Github Actions.
 
+
 ---
+
+-->
 
 ## Featured repos
 
+- **Commitment** — Tool to help achive requirement from client or Product team.
 - **Dollar** — budgets, accounts, CSV import/export, monthly & annual stats, and AI-driven insights.
 - **fix-it-now** — booking & matching; Next.js Server Actions; Supabase; Stripe; NextAuth; Vercel; GitHub Actions.
 - **Tostariac** — product site for a biscuit brand (Nuxt 3, Netlify, Resend, GSAP).
